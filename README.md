@@ -16,13 +16,13 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Prince Vasava
-role: Security Researcher & Bug Bounty Hunter
-education: 3rd Year Student @ LDCE
-focus: [Web Application Security, Cloud Security (AWS)]
-platforms: [HackerOne, Bugcrowd]
-aspiration: Penetration Tester
-contact: vasavaprince187@gmail.com
+Name: Prince Vasava
+Role: Security Researcher & Bug Bounty Hunter
+Education: 3rd Year Student @ LDCE
+Focus: Web Application Security, Cloud Security (AWS)
+Platforms: HackerOne, Bugcrowd
+Aspiration: Penetration Tester
+Contact: vasavaprince187@gmail.com
 ```
 
 > 💬 *"The only truly secure system is one that is powered off."*
@@ -38,7 +38,7 @@ contact: vasavaprince187@gmail.com
 
 **🛡️ Security**
 - Web App Penetration Testing
-- Cloud Security Assessment (AWS)
+- Cloud Security Assessment Learning
 - Network Vulnerability Assessment
 - OWASP Top 10 Exploitation
 - API Security Testing
