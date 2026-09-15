@@ -1,88 +1,96 @@
-<h1 align="center">Hi there, I'm Prince Vasava 👋</h1>
+<div align="center">
 
-<h3 align="center">🔐 VAPT | Web & Cloud Security | Bug Bounty Hunter 🔐</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Prince%20Vasava&fontSize=50&fontColor=00FF9C&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Breaking+things+to+make+them+secure;Bug+Bounty+Hunter+on+HackerOne+%26+Bugcrowd;Focused+on+Web+%26+Cloud+Security;Building+tools+%2B+breaking+things+responsibly;Studying+at+LDCE" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Breaking+things+to+make+them+secure;Bug+Bounty+Hunter+on+HackerOne+%26+Bugcrowd;Focused+on+Web+%26+Cloud+Security;Studying+at+LDCE" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrinceVasava&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20India-blue?style=flat&logo=googlemaps&logoColor=white" />
-</p>
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=PrinceVasava&label=Profile%20Views&color=00FF9C&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20India-00FF9C?style=for-the-badge&logo=googlemaps&logoColor=black" />
 
-### 🧑‍💻 About Me
+</div>
 
-- 🎓 3rd Year Student at **[LDCE](https://github.com/LDCE)**
-- 🐞 Active Bug Bounty Hunter on **HackerOne** & **Bugcrowd**
-- 🌐 Mainly focused on **Web Application Security** & **Cloud Security Assets**
-- 🔭 Aspiring Penetration Tester — always sharpening offensive security skills
-- 🛠️ Passionate about building security tools while breaking things responsibly
-- 📫 Reach me at: **vasavaprince187@gmail.com**
-- 📍 Based in **Ahmedabad, India**
+<br/>
+
+## 🧑‍💻 About Me
+
+```yaml
+name: Prince Vasava
+role: Security Researcher & Bug Bounty Hunter
+education: 3rd Year Student @ LDCE
+focus: [Web Application Security, Cloud Security (AWS)]
+platforms: [HackerOne, Bugcrowd]
+aspiration: Penetration Tester
+contact: vasavaprince187@gmail.com
+```
 
 > 💬 *"The only truly secure system is one that is powered off."*
+> ✨ *Think positive things, and positive things will happen.*
 
-> ✨ *Think Positive Things and Positive Things will Happen.*
+<br/>
 
----
-
-### 🎯 Skills
+## 🎯 Skills
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
-**Offensive Security**
-- Web Application Penetration Testing
+**🛡️ Security**
+- Web App Penetration Testing
 - Cloud Security Assessment (AWS)
 - Network Vulnerability Assessment
 - OWASP Top 10 Exploitation
 - API Security Testing
-- Recon & OSINT
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
-**Supporting Skills**
-- Bug Bounty Reporting & Documentation
-- Scripting for Automation (Python/Bash)
-- Linux System Administration
-- Burp Suite (Manual & Automated Testing)
-- Vulnerability Research
-- Security Writeups & Blogging
+**🔍 Reconnaissance**
+- Attack Surface Mapping
+- OSINT
+- Recon Automation
+
+</td>
+<td valign="top" width="33%">
+
+**⚙️ Engineering**
+- Python — scripting & automation
+- Bash — Linux tooling
+- Git & Version Control
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### 🛠️ Tools & Technologies
+## 🔭 Currently Exploring
+
+- 🕸️ Web Application Security — **PortSwigger Academy**
+- 🧪 Practical labs on **TryHackMe**
+- ☁️ Cloud security assessment techniques
+- 🤖 Automating recon workflows in **Python**
+
+<br/>
+
+## 🛠️ Tools & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
+<br/>
 
-### 🏆 Bug Bounty & Practice Platforms
+## 🏆 Bug Bounty & Practice Platforms
 
 <p align="center">
   <a href="https://hackerone.com/prince0x01" target="_blank">
@@ -95,22 +103,24 @@
   <img src="https://img.shields.io/badge/PortSwigger%20Academy-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
 </p>
 
----
+<br/>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PrinceVasava&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceVasava&theme=radical&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceVasava&layout=compact&theme=radical&hide_border=true" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PrinceVasava&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceVasava&theme=radical&hide_border=true&background=0d1117" />
 
----
+<br/>
 
-### ✍️ Writeups & Blog
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceVasava&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+
+</div>
+
+<br/>
+
+## ✍️ Writeups & Blog
 
 <p align="center">
   <a href="https://medium.com/@prince0x01" target="_blank">
@@ -118,11 +128,11 @@
   </a>
 </p>
 
-<p align="center">Check out my latest bug bounty writeups and security research on Medium.</p>
+<p align="center"><i>Bug bounty writeups and security research published on Medium.</i></p>
 
----
+<br/>
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/princevasava11" target="_blank">
@@ -148,10 +158,12 @@
   </a>
 </p>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer" />
-</p>
+<div align="center">
 
-<p align="center"><i>⚡ Think Positive Things and Positive Things will Happen. ⚡</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+<i>⚡ Believe in God's Plan. ⚡</i>
+
+</div>
